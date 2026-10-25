@@ -1,4 +1,4 @@
-print("Hello, Git!")
+print("Hello from conflict branch!")
 
 a = 10
 b = 20
