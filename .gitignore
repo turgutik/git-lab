@@ -1,0 +1,13 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Temporary files
+*.log
+*.tmp
+
+# macOS
+.DS_Store
+
+# Environment
+.env
